@@ -13,3 +13,4 @@ https://bashrcgenerator.com/
 Add PS1=... line at the end of the ~/.bashrc file
 
 ### How it looks like
+![image](https://user-images.githubusercontent.com/10208663/216475223-b62e3bb9-f282-4204-8269-25bdb16a1b6d.png)
